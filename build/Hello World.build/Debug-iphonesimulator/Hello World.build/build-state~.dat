@@ -1,0 +1,222 @@
+THello World
+v7
+r0
+t327961713.941468
+cCheck dependencies
+cProcessInfoPlistFile "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
+cCompileXIB "/Users/briancain/Documents/Programming/Projects/Hello World/MainWindow.xib"
+cProcessPCH /var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/briancain/Documents/Programming/Projects/Hello World/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyControl.o" "/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.h
+c000000004DDC135A000000000000014C
+t1306268506
+s332
+i<UIKit/UIKit.h>
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m
+c000000004DDC135A00000000000009D7
+t1306268506
+s2519
+i"Hello_WorldAppDelegate.h"
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/Hello_World_Prefix.pch
+c000000004DDC135A00000000000000BF
+t1306268506
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/MainWindow.xib
+c000000004DDC14C10000000000006179
+t1306268865
+s24953
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h
+c000000004DDC14DC0000000000000169
+t1306268892
+s361
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m
+c000000004DDC14DC00000000000000DC
+t1306268892
+s220
+i"MyControl.h"
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app
+t2
+s0
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM
+t2
+s0
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+t2
+s0
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
+t1306268913
+s607
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/MainWindow.nib
+t1306268913
+s3173
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/PkgInfo
+t1306268913
+s8
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList
+c000000004DDC14F100000000000001DC
+t1306268913
+s476
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
+t1306268913
+s49968
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyControl.o
+t2
+s0
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
+t1306268913
+s6352
+
+N/Users/briancain/Documents/Programming/Projects/Hello World/main.m
+c000000004DDC135A0000000000000166
+t1306268506
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch.gch
+t1306268913
+s15814064
+
+NHello_World-Info.plist
+c000000004DDC135A000000000000038D
+t1306268506
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327961713#327961713#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327961713.902036
+e327961713.941407
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
+x/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m327961713#327961713#0(0"0(0#0#92"/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m8602853728#2291"    cd "/Users/briancain/Documents/Programming/Projects/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/include" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch -c "/Users/briancain/Documents/Programming/Projects/Hello World/Classes/Hello_WorldAppDelegate.m" -o "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyControl.o" "/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327961713.902917
+e327961713.928596
+r0
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyControl.o
+x/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m:8:
+o/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h:11: error: expected identifier before '{' token
+o/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h:16: error: expected '{' before 'end'
+o/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h:16: warning: '@end' must appear in an @implementation context
+o/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m:11: warning: cannot find interface declaration for 'MyControl'
+lSLF07#2@79"Compile /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961713#327961713#0(595"In file included from /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m:8:/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h:11: error: expected identifier before '{' token/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h:16: error: expected '{' before 'end'/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h:16: warning: '@end' must appear in an @implementation context/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m:11: warning: cannot find interface declaration for 'MyControl'4(4@36"Expected identifier before '{' token327961713#97#120#2(7@93"In file included from /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961713#18446744073709551615#0#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961692#8#0#8#0#0"0(13@111"Expected identifier before '{' token in /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961713#18446744073709551615#0#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961692#11#0#11#0#0"0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961692#11#0#11#0#19"expected * before *0(4@25"Expected '{' before 'end'327961713#217#109#2(7@93"In file included from /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961713#18446744073709551615#0#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961692#8#0#8#0#0"0(13@100"Expected '{' before 'end' in /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961713#18446744073709551615#0#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961692#16#0#16#0#0"0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961692#16#0#16#0#19"expected * before *0(22@48"'@end' must appear in an @implementation context327961713#326#134#2(7@93"In file included from /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961713#18446744073709551615#0#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961692#8#0#8#0#0"0(13@123"'@end' must appear in an @implementation context in /Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961713#18446744073709551615#0#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961692#16#0#16#0#0"0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.h327961692#16#0#16#0#0"0(22@49"Cannot find interface declaration for 'MyControl'327961713#460#135#0(6@71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m327961692#11#0#11#0#0"0(0#0#71"/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m8601224640#2257"    cd "/Users/briancain/Documents/Programming/Projects/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/include" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch -c "/Users/briancain/Documents/Programming/Projects/Hello World/MyControl.m" -o "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/MyControl.o"1#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/briancain/Documents/Programming/Projects/Hello World/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327961713.900947
+e327961713.930752
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
+x/Users/briancain/Documents/Programming/Projects/Hello World/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/briancain/Documents/Programming/Projects/Hello World/main.m327961713#327961713#0(0"0(0#0#66"/Users/briancain/Documents/Programming/Projects/Hello World/main.m8603517216#2247"    cd "/Users/briancain/Documents/Programming/Projects/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/include" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch -c "/Users/briancain/Documents/Programming/Projects/Hello World/main.m" -o "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/briancain/Documents/Programming/Projects/Hello World/MainWindow.xib"
+s327961713.236545
+e327961713.449815
+r1
+xCompileXIB
+x/Users/briancain/Documents/Programming/Projects/Hello World/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327961713#327961713#0(0"0(0#0#74"/Users/briancain/Documents/Programming/Projects/Hello World/MainWindow.xib8602658336#643"    cd "/Users/briancain/Documents/Programming/Projects/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/MainWindow.nib" "/Users/briancain/Documents/Programming/Projects/Hello World/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM" "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"
+r0
+
+CLd "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
+s327961713.231070
+e327961713.236415
+r1
+xProcessInfoPlistFile
+x/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
+xHello_World-Info.plist
+lSLF07#2@30"Process Hello_World-Info.plist327961713#327961713#0(0"0(0#0#82"/Users/briancain/Documents/Programming/Projects/Hello World/Hello_World-Info.plist7236274654156907520#560"    cd "/Users/briancain/Documents/Programming/Projects/Hello World"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hello_World-Info.plist -genpkginfo "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist"0#
+
+CProcessPCH /var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327961713.450006
+e327961713.900832
+r1
+xProcessPCH
+x/var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch.gch
+xHello_World_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Hello_World_Prefix.pch327961713#327961713#0(0"0(0#0#82"/Users/briancain/Documents/Programming/Projects/Hello World/Hello_World_Prefix.pch8600869120#2112"    cd "/Users/briancain/Documents/Programming/Projects/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/include" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/briancain/Documents/Programming/Projects/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -c "/Users/briancain/Documents/Programming/Projects/Hello World/Hello_World_Prefix.pch" -o /var/folders/r3/r3ovvWRBFhifpF0aUSw9hU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-ghawlkedplsotifwyzksuxnnfbrh/Hello_World_Prefix.pch.gch0#
+
+CTouch "/Users/briancain/Documents/Programming/Projects/Hello World/build/Debug-iphonesimulator/Hello World.app"
+r0
+
